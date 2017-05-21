@@ -1,0 +1,14 @@
+.jsc-sidebar {
+    position: fixed;
+    z-index: -1;
+    top: 85px;
+    left: 0;
+    width: 220px;
+    height: 550px;
+    overflow: hidden;
+    background-color: #312f2f;
+}
+
+.sidebar{
+    background-color: #312f2f;
+}
